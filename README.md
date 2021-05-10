@@ -13,3 +13,6 @@ This is a Basic Polkadot (Blockchain) project using Nodejs application to perfor
 
 Want to know more about Polkadot? Read Polkadot docs [here](https://wiki.polkadot.network/docs/en/getting-started) or Watch a [Video here](https://www.youtube.com/watch?v=kw8eu2VadFA&t=3195s)
 
+Feel free to pull and make it better.
+
+More to come on this project :)
